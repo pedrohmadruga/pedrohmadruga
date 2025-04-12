@@ -44,4 +44,4 @@
 ###
 
 <br clear="both">
-###
+I've always been passionate about technology. Coding is something I love to do, and I dedicate many hours every day to learn new skills and improve myself as a capable programmer
